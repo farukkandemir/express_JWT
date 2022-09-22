@@ -1,7 +1,6 @@
 {
   "name": "practice-3",
   "version": "1.0.0",
-  "homepage": "https://farukkandemir.github.io/express_JWT",
   "description": "Express and JWT",
   "main": "server.js",
   "scripts": {
